@@ -1,4 +1,7 @@
 from textnode import *
+from htmlnode import *
+from text_to_html import *
+
 
 
 def main():
